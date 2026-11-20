@@ -1,0 +1,6 @@
+{
+  "name": "Sentinel-DPDP",
+  "description": "Automated India DPDP Act & PII Security PR Guardian with deterministic AST scanning, progressive disclosure, Gemini auto-remediation, and verification gates.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
